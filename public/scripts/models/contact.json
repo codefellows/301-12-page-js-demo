@@ -1,11 +1,31 @@
-[{
-	"id": 3,
-	"name": "Brook",
-	"favorite number": 42,
-	"ninja": true
-}, {
-	"id": 4,
-	"name": "Sam",
-	"favorite number": 3,
-	"ninja": false
-}]
+[
+	{
+		"id": 33,
+		"name": "Brook",
+		"favorite number": 42,
+		"ninja": true
+	}, {
+		"id": 99,
+		"name": "Sam",
+		"favorite number": 3,
+		"ninja": false
+	},
+	{
+		"id": 897,
+		"name": "Erica",
+		"favorite number": 13,
+		"ninja": false
+	},
+	{
+		"id": 8675309,
+		"name": "Crystal",
+		"favorite number": "pi",
+		"ninja": false
+	},
+	{
+		"id": 2,
+		"name": "Razi",
+		"favorite number": 5,
+		"ninja": false
+	}
+]
