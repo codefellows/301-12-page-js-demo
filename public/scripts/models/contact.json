@@ -11,21 +11,27 @@
 		"ninja": false
 	},
 	{
-		"id": 897,
-		"name": "Erica",
+		"id": 3.14,
+		"name": "Steven",
 		"favorite number": 13,
-		"ninja": false
+		"ninja": true
 	},
 	{
 		"id": 8675309,
-		"name": "Crystal",
+		"name": "Judy",
 		"favorite number": "pi",
 		"ninja": false
 	},
 	{
 		"id": 2,
-		"name": "Razi",
+		"name": "Tracey",
 		"favorite number": 5,
-		"ninja": false
+		"ninja": true
+	},
+	{
+		"id": 5150,
+		"name": "David",
+		"favorite number": 1,
+		"ninja": true
 	}
 ]
