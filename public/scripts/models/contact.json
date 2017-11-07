@@ -5,33 +5,39 @@
 		"favorite number": 42,
 		"ninja": true
 	}, {
-		"id": 99,
+		"id": 27,
 		"name": "Sam",
 		"favorite number": 3,
 		"ninja": false
 	},
 	{
-		"id": 3.14,
-		"name": "Steven",
+		"id": 13,
+		"name": "JB",
 		"favorite number": 13,
 		"ninja": true
 	},
 	{
-		"id": 8675309,
-		"name": "Judy",
-		"favorite number": "pi",
+		"id": 99,
+		"name": "Allie",
+		"favorite number": "&#960;",
 		"ninja": false
 	},
 	{
 		"id": 2,
-		"name": "Tracey",
+		"name": "TA Dustin",
 		"favorite number": 5,
 		"ninja": true
 	},
 	{
 		"id": 5150,
-		"name": "David",
-		"favorite number": 1,
+		"name": "Ron",
+		"favorite number": 3,
 		"ninja": true
-	}
+	},
+	{
+	"id": 1,
+	"name": "!TA Dustin",
+	"favorite number": 1,
+	"ninja": true
+}
 ]
