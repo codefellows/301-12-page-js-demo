@@ -1,0 +1,24 @@
+{
+  "name": "301-12-page-js-demo",
+  "version": "1.0.0",
+  "description": "Code demo for Class 12 of Code 301",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows/301-12-page-js-demo.git"
+  },
+  "author": "Sam Hamm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codefellows/301-12-page-js-demo/issues"
+  },
+  "homepage": "https://github.com/codefellows/301-12-page-js-demo#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  }
+}
